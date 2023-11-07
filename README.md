@@ -51,8 +51,8 @@
 ## 結論
 #### 長期持有加密貨幣是一件高風險高報酬的事情，例如單純持有比特幣，雖然上漲時漲幅高，但下跌時跌幅也很高，並且很依靠進場的位置，是否屬於低點。本研究使用A2C強化學習模型並配合避險機制風控一個長期持有加密貨幣的投資組合，實驗結果表明可以在報酬與風險中間達到一個不錯的平衡，為投資人提供一個除了單純持有比特幣以外的新選擇。
 
-[原始程式執行結果雲端連結(+44%)](https://drive.google.com/drive/folders/1UOkK9s2VT85rEGZUi_tc_dO1ZZhvYcOd?usp=sharing)
-[專題海報製作WORD連結](https://docs.google.com/document/d/1O0SIYdF8UCiFH5vOIVQ1MKQ8Owug0RxzUYmPVbZCoIM/edit)
+###  `[原始程式執行結果雲端連結(+44%)]` [link](https://drive.google.com/drive/folders/1UOkK9s2VT85rEGZUi_tc_dO1ZZhvYcOd?usp=sharing)
+###  `[專題海報製作WORD連結]` [link](https://docs.google.com/document/d/1O0SIYdF8UCiFH5vOIVQ1MKQ8Owug0RxzUYmPVbZCoIM/edit)
 
 ## 報告問題猜測
 1. 強調避險機制 -> 用cumulative performance的圖講
@@ -65,6 +65,6 @@
 3. 每次執行皆須重複以上流程
 
 ## 參考文獻
-###  `[FinRL主要參考對象]` [FinRL主要參考對象](https://github.com/AI4Finance-Foundation/FinRL)
-###  `[SUPERTREND特徵指標]` [SUPERTREND特徵指標](https://tw.tradingview.com/scripts/supertrend/)
+###  `[FinRL主要參考對象]` [link](https://github.com/AI4Finance-Foundation/FinRL)
+###  `[SUPERTREND特徵指標]` [link](https://tw.tradingview.com/scripts/supertrend/)
   
