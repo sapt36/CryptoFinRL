@@ -65,5 +65,6 @@
 3. 每次執行皆須重複以上流程
 
 ## 參考文獻
-[FinRL主要參考對象](https://github.com/AI4Finance-Foundation/FinRL)
-[SUPERTREND特徵指標](https://tw.tradingview.com/scripts/supertrend/)
+  `[FinRL主要參考對象]` [FinRL主要參考對象](https://github.com/AI4Finance-Foundation/FinRL)
+  `[SUPERTREND特徵指標]` [SUPERTREND特徵指標](https://tw.tradingview.com/scripts/supertrend/)
+  
