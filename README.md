@@ -1,8 +1,12 @@
 # CryptoPortfolioRL
  Undergraduate senior project
+
+###  `[原始程式執行結果雲端連結(+44%)]` [link](https://drive.google.com/drive/folders/1UOkK9s2VT85rEGZUi_tc_dO1ZZhvYcOd?usp=sharing)
+###  `[專題海報製作WORD連結]` [link](https://docs.google.com/document/d/1O0SIYdF8UCiFH5vOIVQ1MKQ8Owug0RxzUYmPVbZCoIM/edit)
+ 
 # 實驗說明
 ## 歷史幣價資料取得
-* 幣安API
+* 幣安API [link](https://binance-docs.github.io/apidocs/websocket_api/cn/#185368440e)
 ## 幣種
 * BTC
 * ETH
@@ -29,7 +33,7 @@
 * 過去平均跌幅
 * 微軟QLib 開高低收特徵
 ### 模型
-* 強化學習演算法 A2C
+* 強化學習演算法 A2C [link](https://github.com/openai/baselines/tree/master/baselines/a2c)
 ## 回測結果分析
 * 比較基準為100%持有比特幣
 #### 重要的衡量指標
@@ -51,9 +55,6 @@
 ## 結論
 #### 長期持有加密貨幣是一件高風險高報酬的事情，例如單純持有比特幣，雖然上漲時漲幅高，但下跌時跌幅也很高，並且很依靠進場的位置，是否屬於低點。本研究使用A2C強化學習模型並配合避險機制風控一個長期持有加密貨幣的投資組合，實驗結果表明可以在報酬與風險中間達到一個不錯的平衡，為投資人提供一個除了單純持有比特幣以外的新選擇。
 
-###  `[原始程式執行結果雲端連結(+44%)]` [link](https://drive.google.com/drive/folders/1UOkK9s2VT85rEGZUi_tc_dO1ZZhvYcOd?usp=sharing)
-###  `[專題海報製作WORD連結]` [link](https://docs.google.com/document/d/1O0SIYdF8UCiFH5vOIVQ1MKQ8Owug0RxzUYmPVbZCoIM/edit)
-
 ## 報告問題猜測
 1. 強調避險機制 -> 用cumulative performance的圖講
 2. 2022/10 ftx倒閉事件大跌 躲不過
@@ -64,7 +65,13 @@
 2. 結束時要點擊 執行階段 -> 中斷連線並刪除執行階段(以防過度使用colab免費GPU)
 3. 每次執行皆須重複以上流程
 
-## 參考文獻
-###  `[FinRL主要參考對象]` [link](https://github.com/AI4Finance-Foundation/FinRL)
-###  `[SUPERTREND特徵指標]` [link](https://tw.tradingview.com/scripts/supertrend/)
+## 主要參考文獻
+###  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
+
+## 特徵參考
+###  `[SUPERTREND]` [link](https://tw.tradingview.com/scripts/supertrend/)
+###  `[Technical Analysis Library in Python]` [link](https://github.com/bukosabino/ta)
+###  `[pycatch22 - CAnonical Time-series CHaracteristics in python]` [link](https://github.com/bukosabino/ta)
+###  `[Qlib: An AI-oriented Quantitative Investment Platform]` [link](https://github.com/microsoft/qlib)
+
   
