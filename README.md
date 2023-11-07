@@ -1,4 +1,4 @@
-# CryptoPortfolioRL
+# CryptoFinRL
  Undergraduate senior project
 
 ###  `[原始程式執行結果雲端連結(+44%)]` [link](https://drive.google.com/drive/folders/1UOkK9s2VT85rEGZUi_tc_dO1ZZhvYcOd?usp=sharing)
