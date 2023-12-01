@@ -7,7 +7,7 @@
 # 實驗說明
 ## 歷史幣價資料取得
 * 幣安API [link](https://binance-docs.github.io/apidocs/websocket_api/cn/#185368440e)
-## 幣種
+## 所使用幣種
 * BTC
 * ETH
 * BNB
