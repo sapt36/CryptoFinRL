@@ -83,13 +83,18 @@ DRL：Deep Reinforcement Learning
 3. CRYPTO_LIST 可增減 須確保在時間段內已存在
 
 ## 主要參考文獻
-###  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
-###  `[Deep Reinforcement Learning for Automated Stock Trading]` [link](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
+####  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
+####  `[Deep Reinforcement Learning for Automated Stock Trading]` [link](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
 
 ## 特徵參考
-###  `[SUPERTREND]` [link](https://tw.tradingview.com/scripts/supertrend/)
-###  `[Technical Analysis Library in Python]` [link](https://github.com/bukosabino/ta)
-###  `[pycatch22 - CAnonical Time-series CHaracteristics in python]` [link](https://github.com/bukosabino/ta)
-###  `[Qlib: An AI-oriented Quantitative Investment Platform]` [link](https://github.com/microsoft/qlib)
+####  `[SUPERTREND]` [link](https://tw.tradingview.com/scripts/supertrend/)
+####  `[Technical Analysis Library in Python]` [link](https://github.com/bukosabino/ta)
+####  `[pycatch22 - CAnonical Time-series CHaracteristics in python]` [link](https://github.com/bukosabino/ta)
+####  `[Qlib: An AI-oriented Quantitative Investment Platform]` [link](https://github.com/microsoft/qlib)
 
-  
+
+## LICENSE
+
+MIT License
+
+**Disclaimer: We are sharing codes for academic purpose under the MIT education license. Nothing here is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
