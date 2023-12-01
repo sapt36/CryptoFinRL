@@ -32,7 +32,9 @@
 ## 回測結果分析
 * 比較基準為100%持有比特幣
 ### 重要的衡量指標(backtesting.py)
-![指標](https://github.com/sapt36/CryptoFinRL/assets/73412241/bb2a155a-19bc-4b09-99ae-5bfce0d55745)
+<div align="center">
+<img align="center" src=figs/[finrl_framework.png](https://github.com/sapt36/CryptoFinRL/assets/73412241/bb2a155a-19bc-4b09-99ae-5bfce0d55745)>
+</div>
 
 * Alpha(α) : 相對於大盤(比特幣)的超額報酬，愈高愈好，表示無考慮風險的賺錢能力
 * Beta(ß) : 用來評估投資組合與大盤波動的相關性，接近1表示策略的波動特性跟整體大盤一致
