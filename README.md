@@ -1,5 +1,5 @@
 # CryptoPortfolioFinRL
-Deep Reinforcement Learning for Crypto Portfolio 
+Fiance Reinforcement Learning for Crypto Portfolio 
  
 # 實驗說明
 ## 歷史幣價資料取得
