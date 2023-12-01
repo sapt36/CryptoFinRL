@@ -84,7 +84,7 @@ DRL：Deep Reinforcement Learning
 
 ## 主要參考文獻
 ###  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
-###  `[Deep Reinforcement Learning for Automated Stock Trading]` [link](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02))
+###  `[Deep Reinforcement Learning for Automated Stock Trading]` [link](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
 
 ## 特徵參考
 ###  `[SUPERTREND]` [link](https://tw.tradingview.com/scripts/supertrend/)
