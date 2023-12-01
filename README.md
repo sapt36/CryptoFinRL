@@ -6,6 +6,7 @@
 * 幣安API [link](https://binance-docs.github.io/apidocs/websocket_api/cn/#185368440e)
 ## 所使用幣種
 | BTC  | ETH | BNB | SOL | BUSD |
+|----|----|----|----|----|
 ## 資料切分
 * 訓練時間段 : 2020/10/17 ~ 2021/10/17
 * 測試時間段 : 2021/10/18 ~ 2023/10/25
