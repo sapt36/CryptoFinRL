@@ -1,8 +1,5 @@
 # CryptoPortfolioFinRL
  Undergraduate senior project
-
-###  `[原始程式執行結果雲端連結(+44%)]` [link](https://drive.google.com/drive/folders/1UOkK9s2VT85rEGZUi_tc_dO1ZZhvYcOd?usp=sharing)
-###  `[專題海報製作WORD連結]` [link](https://docs.google.com/document/d/1O0SIYdF8UCiFH5vOIVQ1MKQ8Owug0RxzUYmPVbZCoIM/edit)
  
 # 實驗說明
 ## 歷史幣價資料取得
