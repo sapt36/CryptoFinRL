@@ -32,6 +32,9 @@
 ## 回測結果分析
 * 比較基準為100%持有比特幣
 ### 重要的衡量指標(backtesting.py)
+```
+DRL：Deep Reinforcement Learning
+```
 ![指標](https://github.com/sapt36/CryptoFinRL/assets/73412241/f441d9c0-4686-4df4-b251-c9b6c2af4ecb)
 * Alpha(α) : 相對於大盤(比特幣)的超額報酬，愈高愈好，表示無考慮風險的賺錢能力
 * Beta(ß) : 用來評估投資組合與大盤波動的相關性，接近1表示策略的波動特性跟整體大盤一致
@@ -81,6 +84,7 @@
 
 ## 主要參考文獻
 ###  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
+###  `[Deep Reinforcement Learning for Automated Stock Trading]` [link](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02))
 
 ## 特徵參考
 ###  `[SUPERTREND]` [link](https://tw.tradingview.com/scripts/supertrend/)
