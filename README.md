@@ -28,7 +28,9 @@ Fiance Reinforcement Learning for Crypto Portfolio
 * 過去平均跌幅
 * 微軟QLib 開高低收特徵
 ### 模型
-* 強化學習演算法 A2C [link](https://github.com/openai/baselines/tree/master/baselines/a2c)
+* 強化學習演算法
+* A2C：[link](https://github.com/openai/baselines/tree/master/baselines/a2c)
+* PPO：PPO 通過限制新舊策略的重要性取樣比，來限制策略的改進，讓演算法訓練得很穩。本質上來說， PPO 是一種保守策略梯度方法。
 ## 回測結果分析
 * 比較基準為100%持有比特幣
 ### 重要的衡量指標(backtesting.py)
