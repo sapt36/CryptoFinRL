@@ -1,5 +1,5 @@
 # CryptoPortfolioFinRL
-Fiance Machine Learning Model for Crypto Portfolio 
+Finance Machine Learning Model for Crypto Portfolio 
  
 # 實驗說明
 ## 歷史幣價資料取得
