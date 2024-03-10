@@ -33,7 +33,7 @@
 ### 模型
 * 強化學習演算法
 * A2C：[link](https://github.com/openai/baselines/tree/master/baselines/a2c)
-* PPO：PPO 通過限制新舊策略的重要性取樣比，來限制策略的改進，讓演算法訓練得很穩。本質上來說， PPO 是一種保守策略梯度方法。
+* PPO：[link](https://github.com/ericyangyu/PPO-for-Beginners)
 * 比較PPO（Proximal Policy Optimization）、A2C（Advantage Actor-Critic）
 
 1. **穩定性**：PPO通常比A2C更穩定。PPO使用了一些技術來穩定訓練過程，例如對策略更新的限制，這有助於減少不穩定性，使得模型更容易訓練和收斂。相比之下，A2C通常更容易受到梯度變化的影響，因此可能需要更多的調參和調整來確保穩定性。
