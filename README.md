@@ -32,9 +32,9 @@
 * 強化學習演算法(比較A2C與PPO，最後採用A2C)
 * A2C：[link](https://github.com/openai/baselines/tree/master/baselines/a2c)
 * PPO：PPO 通過限制新舊策略的重要性取樣比，來限制策略的改進，讓演算法訓練得很穩。本質上來說， PPO 是一種保守策略梯度方法。
-## 回測結果分析
+## 回測結果分析(backtesting.py)
 * 比較基準為100%持有比特幣
-### 重要的衡量指標(backtesting.py)
+### 重要的衡量指標
 ```
 DRL：Deep Reinforcement Learning
 ```
