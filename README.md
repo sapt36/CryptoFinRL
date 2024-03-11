@@ -7,7 +7,7 @@
 **主要的技術難點**
 1. 數據質量和源頭問題：某些交易所可能提供的數據可能不完整或存在錯誤，所以選擇目前最大的加密貨幣交易所：幣安。binance_api.ipynb
 
-2. 特徵工程：成功訓練機器學習模型的關鍵。對於加密貨幣市場來說，選擇哪些特徵以及如何組合它們是一個挑戰。需要深入了解加密貨幣市場的特性，並通過相應的技術分析指標來提取有效的特徵。backtesting.py
+2. 特徵工程：成功訓練機器學習模型的關鍵。對於加密貨幣市場來說，選擇哪些特徵和如何組合它們是一個挑戰。需要深入了解加密貨幣市場的特性，並通過相應的技術分析指標來提取有效的特徵。backtesting.py
 
 3. 模型選擇和調參：在FinRL中使用的強化學習算法和其他機器學習模型都有很多參數需要調整。PPO與A2C
 
@@ -105,14 +105,17 @@ DRL：Deep Reinforcement Learning
 3. Action.csv 看權重(action.py)
 
 ## 注意事項
-### colab
+* colab
 1. 連接雲端，並安裝完套件 執行階段 -> 重新啟動執行階段
 2. 結束時要點擊 執行階段 -> 中斷連線並刪除執行階段(以防過度使用colab免費GPU)
 3. 每次執行皆須重複以上流程
-### jupyter notebook
+* jupyter notebook
 1. 每台電腦需在prompt安裝這些py套件一次 -> pip install ccxt/pandas/time/tqdm
 2. parse8601 每半年加一段
 3. CRYPTO_LIST 可增減 須確保在時間段內已存在
+* binance_api.ipynb
+1. 執行時不能用公用網路，爬取API資料會被Binance擋
+2. 新創建的API secret key，在網頁重整後就無法再看到，要先存好
 
 ## 主要參考文獻
 ####  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
