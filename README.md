@@ -109,8 +109,8 @@ DRL：Deep Reinforcement Learning
 1. 連接雲端，並安裝完套件 執行階段 -> 重新啟動執行階段
 2. 結束時要點擊 執行階段 -> 中斷連線並刪除執行階段(以防過度使用colab免費GPU)
 3. 每次執行皆須重複以上流程
-* jupyter notebook
-1. 每台電腦需在prompt安裝這些py套件一次 -> pip install ccxt/pandas/time/tqdm
+* jupyter notebook(執行binance_api.ipynb建立ohlcv.csv)
+1. 每台電腦需在prompt安裝這些py套件一次 -> pip install ccxt/pandas/time/tqdm -> 在prompt輸入jupyter notebook
 2. parse8601 每半年加一段
 3. CRYPTO_LIST 可增減 須確保在時間段內已存在
 * binance_api.ipynb
