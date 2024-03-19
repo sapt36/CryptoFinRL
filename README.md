@@ -120,7 +120,7 @@ DRL：Deep Reinforcement Learning
 ## 主要參考文獻
 ####  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
 ####  `[Deep Reinforcement Learning for Automated Stock Trading]` [link](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
-####  `[python binance幣安利用ccxt完成虛擬貨幣自動化交易]` [link](https://badgameshow.com/steven/python/python-binance%E5%B8%81%E5%AE%89%E5%88%A9%E7%94%A8ccxt%E5%AE%8C%E6%88%90%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E8%87%AA%E5%8B%95%E5%8C%96%E4%BA%A4%E6%98%93/)
+####  `[FinRL for Quantitative Finance: Install and Setup Tutorial for Beginners]` [link](https://ai4finance-foundation.medium.com/finrl-for-quantitative-finance-install-and-setup-tutorial-for-beginners-1db80ad39159))
 
 ## 特徵參考
 ####  `[SUPERTREND]` [link](https://tw.tradingview.com/scripts/supertrend/)
