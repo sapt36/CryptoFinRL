@@ -104,18 +104,24 @@ DRL：Deep Reinforcement Learning
 2. 2022/10 ftx倒閉事件大跌 躲不過
 3. Action.csv 看權重(action.py)
 
-## 注意事項
-* colab
-1. 連接雲端，並安裝完套件 執行階段 -> 重新啟動執行階段
-2. 結束時要點擊 執行階段 -> 中斷連線並刪除執行階段(以防過度使用colab免費GPU)
-3. 每次執行皆須重複以上流程
-* jupyter notebook(執行binance_api.ipynb建立ohlcv.csv)
-1. 每台電腦需在prompt安裝這些py套件一次 -> pip install ccxt/pandas/time/tqdm -> 在prompt輸入jupyter notebook
-2. parse8601 每半年加一段
-3. CRYPTO_LIST 可增減 須確保在時間段內已存在
-* binance_api.ipynb
-1. 執行時不能用公用網路，爬取API資料會被Binance擋
-2. 新創建的API secret key，在網頁重整後就無法再看到，要先存好
+## 注意事項(每次執行皆須重複以下流程)
+
+* Anaconda Navigator(執行Jupyter Notebook)
+1. 在創建過的環境CryptoFinRLPortfolio中Open Terminal
+2. 在Terminal安裝這些py套件一次 -> pip install ccxt/pandas/time/tqdm
+3. 在Terminal中輸入jupyter notebook即可接續以下步驟
+
+* Jupyter Notebook(執行binance_api.ipynb建立ohlcv.csv)
+1. parse8601 每半年更新一次時間段
+2. CRYPTO_LIST 可增減，須確保在時間段內新增的加密貨幣已存在
+3. 執行時不能用公用網路，爬取API資料會被Binance擋
+4. 新創建的API secret key，在網頁重整後就無法再看到，要先存好
+5. Binance有request rate limit，需使用time.sleep(1)
+
+* Google Colaboratory(執行CryptoPortfolioRL2023.ipynb)
+1. 連接雲端，並安裝完套件
+2. 執行階段 -> 重新啟動執行階段
+3. 結束時要點擊 執行階段 -> 中斷連線並刪除執行階段(以防過度使用colab的免費GPU)
 
 ## 主要參考文獻
 ####  `[FinRL: Financial Reinforcement Learning]` [link](https://github.com/AI4Finance-Foundation/FinRL)
