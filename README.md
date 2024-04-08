@@ -1,5 +1,5 @@
 
-        訓練機器學習模型交易加密貨幣投資組合 FinRL: Deep Reinforcement Learning to trade a cryptocurrency portfolio 
+        深度強化學習應用於交易加密貨幣投資組合 FinRL: Deep Reinforcement Learning to trade a cryptocurrency portfolio 
 
  
 # 實驗說明
